@@ -22,7 +22,6 @@ Install required plugins (listed below) for full functionality.
 
 - Customizable theme options
 - Integration with Advanced Custom Fields (ACF) PRO
-- Support for WooCommerce
 - Responsive design
 - Performance optimization
 
