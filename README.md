@@ -22,8 +22,10 @@ Install required plugins (listed below) for full functionality.
 
 - Customizable theme options
 - Integration with Advanced Custom Fields (ACF) PRO
-- Responsive design
-- Performance optimization
+- Yoast SEO for enhanced search engine optimization
+- Security Optimizer and Wordfence Security for comprehensive site protection
+- Koko Analytics for privacy-focused analytics
+- Responsive design and performance optimization
 
 ## Code Samples
 
